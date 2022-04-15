@@ -10,7 +10,7 @@ public class MainApp {
       //do pull from github to temp branch and merge with main , should only add changes from github
 //can I add method to implementingi interface class and call it with interface object?
       HelloWorld2 obj = (HelloWorld2) context.getBean("helloWorld");
-     // obj.setMessage("test_14.04_1");
+     // obj.setMessage("test_14.04_3");
       obj.getMessage();
       //System.out.println(obj.message);
 
